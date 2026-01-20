@@ -1,1 +1,11 @@
 Enter requirements here
+
+ need most recent nvidia drivers
+ need most recent cuda toolkit
+ need most recent cudnn library
+ ## the above three are obtained from nvidia website in developers section
+
+ need most recent pytorch version compatible with your cuda version
+
+ for installation instructions of pytorch, visit:
+ https://pytorch.org/get-started/locally/
