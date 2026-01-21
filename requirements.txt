@@ -9,3 +9,5 @@ Enter requirements here
 
  for installation instructions of pytorch, visit:
  https://pytorch.org/get-started/locally/
+
+ make masks at canva.com
